@@ -1,5 +1,5 @@
 <!-- .slide: data-background="img/background.svg" -->
-# What
+# What?
 
 ---
 
@@ -19,19 +19,22 @@
 
 ---
 
-## Centralized version control
+### Centralized VCS
 
-- SVN
-- CVS
-
----
-
-- Everyone pushes to a central repository <!-- .element: class="fragment fade-out" data-fragment-index="1" -->
-- Only the central repo gets a full copy of the history <!-- .element: class="fragment fade-in" data-fragment-index="1" -->
-
-<img src="img/centralized-vcs.svg" />
+- Everyone stores history on a central repository
+- Only the central repo gets a full copy of the history
 
 ---
 
+<!-- .slide: data-background="img/centralized-vcs.svg" -->
 
-<img src="img/dvcs.svg" />
+---
+
+### Distributed Version Control
+
+- Team members send changes to each other
+- Everyone can work offline
+
+---
+
+<!-- .slide: data-background="img/dvcs.svg" -->

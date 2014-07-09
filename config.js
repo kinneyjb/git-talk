@@ -19,7 +19,7 @@ Reveal.initialize({
     overview: true,
 
     // Vertical centering of slides
-    center: true,
+    center: false,
 
     // Enables touch navigation on devices with touch input
     touch: true,
@@ -61,16 +61,16 @@ Reveal.initialize({
     transitionSpeed: 'fast', // default/fast/slow
 
     // Transition style for full page slide backgrounds
-    backgroundTransition: 'slide', // default/none/slide/concave/convex/zoom
+    backgroundTransition: 'none', // default/none/slide/concave/convex/zoom
 
     // Number of slides away from the current that are visible
     viewDistance: 3,
 
     // Parallax background image
-    parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+    parallaxBackgroundImage: 'img/background.svg', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
 
     // Parallax background size
-    parallaxBackgroundSize: '2100px', // CSS syntax, e.g. "2100px 900px"
+    parallaxBackgroundSize: '3200px', // CSS syntax, e.g. "2100px 900px"
 
     theme: 'simple',
 
