@@ -1,6 +1,10 @@
 # Branches
 <!-- .slide: data-background="img/branch-bg.svg" -->
 
+``` bash
+$ git checkout -b hotfix
+```
+
 ---
 
 ## Branches
