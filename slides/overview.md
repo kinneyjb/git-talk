@@ -1,50 +1,13 @@
-# Markdown Demo
+<!-- .slide: data-background="img/background.svg" -->
+<img src="img/git-logo.svg" />
 
 ----
 
-## External 1.1
+<!-- .slide: data-background="img/background.svg" -->
+## Outline
 
-Content 1.1
-
-Note: This will only appear in the speaker notes window.
-
----
-
-## External 1.2
-
-Content 1.2
-
-----
-
-## External 2
-
-Content 2.1
-
-----
-
-## External 3.1
-
-Content 3.1
-
-----
-
-## External 3.2
-
-Content 3.2
-
-
-----
-
-
-## Index stuff
-
----
-
-<!-- .slide: data-background="#000000" -->
-## Slide attributes
-
----
-
-## Element attributes
-- Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
+- What is Git, what's the point?
+- Technical advantages
+- Workflows
+- Tools
+- Subversion migration
