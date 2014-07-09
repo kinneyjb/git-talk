@@ -7,24 +7,28 @@ $ git merge hotfix master
 
 ---
 
-## Fast forwards
+## Strategies
 
-- 90% of your merges (less for huge teams)
+### Fast forward
+
+- Changes go directly on top of the target branch.
+
+### Recursive
+
+- Default for everything that's not fast-forward.
+- Common ancestors get joined.
+- Handles renames.
 
 ---
 
 ## Advanced topics
 
-- merge strategies
-- rerere
+- Different merge strategies
+- `git-rerere`
 
 ---
 
-### Strategies
-
----
-
-#### Recursive
+### More Strategies
 
 ---
 
