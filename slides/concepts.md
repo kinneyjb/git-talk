@@ -10,7 +10,7 @@
 ### [Configuration Management (CM)](http://en.wikipedia.org/wiki/Configuration_management)
 
 - Practice of handling changes systematically so that a system maintains its integrity over time.
- - Policies, procedures, techniques, and tools 
+ - Policies, procedures, techniques, and tools
  - Manage, evaluate proposed changes, track the status of changes
  - Maintain Inventory of system and support documents as the system changes
 - [Information Technology Infrastructure Library (ITIL)](http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library)
