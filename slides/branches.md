@@ -30,6 +30,4 @@ heads$ cat master
 
 ## Conventional names
 
-- **origin**: The first remote that you add.
-  - "Where your code came from."
-- **`master`**: the branch you get by default.
+- `master`: the branch you get by default.
