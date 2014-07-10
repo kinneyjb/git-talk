@@ -38,7 +38,21 @@
 
 ---
 
+## `master`
+
+- Deployment branch
+- Commits are deployments
+
+---
+
 <!-- .slide: data-background="img/gitflow-master.svg" -->
+
+---
+
+## `master`
+
+- Each commit gets a tag
+- Each commit should be a merge commit
 
 ---
 
@@ -46,11 +60,22 @@
 
 ---
 
+## `develop`
+
+- Where work happens
+- Main staging tree for `master`
+
+---
+
 <!-- .slide: data-background="img/gitflow-develop.svg" -->
 
 ---
 
-<!-- .slide: data-background="img/gitflow-release.svg" -->
+## Release branches
+
+- e.g., `release-1.2`
+- only bugfixes
+- merge into `master` and `develop`
 
 ---
 
@@ -58,7 +83,19 @@
 
 ---
 
+## Hotfix branches
+
+- Patches to `master` branch
+
+---
+
 <!-- .slide: data-background="img/gitflow-hotfix.svg" -->
+
+---
+
+## Hotfix branches
+
+- Merge back into `develop`
 
 ---
 
