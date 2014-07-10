@@ -1,5 +1,5 @@
 <!-- .slide: data-background="img/background.svg" -->
-# General Concepts
+# Concepts
 
 - Processes and tools for managing versions/revisions
 - CM->SCM
