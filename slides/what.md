@@ -1,5 +1,17 @@
 <!-- .slide: data-background="img/background.svg" -->
 # What?
+ - [Configuration Management (CM)](http://en.wikipedia.org/wiki/Configuration_management)
+  - Practice of handling changes systematically so that a system maintains its integrity over time.
+  - CM implements the policies, procedures, techniques, and tools that are required to manage, evaluate proposed changes, track the status of changes, and to maintain an inventory of system and support documents as the system changes. 
+ - [Software CM (SCM)](http://en.wikipedia.org/wiki/Software_configuration_management)
+  - Track and controll changes in the software
+  - Revision Control and the establishment of baselines.
+ - [Version Control System (VCS)](http://en.wikipedia.org/wiki/Version_Control_System)
+  - Tracks and provides control over changes to source code
+  - Baseline -or- Branch -or- Tag ... i.e. Version
+  - Centralized, with a single authoritative data store, the repository. (Client/Server)
+ - [Distributed VCS (DVCS)](http://en.wikipedia.org/wiki/Distributed_version_control_system)
+  - Decentralized, each working copy functions as remote backup (Peer-To-Peer)
 
 ---
 
