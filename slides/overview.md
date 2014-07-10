@@ -24,6 +24,7 @@
 <!-- .slide: data-background="img/background.svg" -->
 ## Outline
 
+- General Concepts
 - What is Git, what's the point?
 - Technical advantages
 - Workflows
