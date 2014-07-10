@@ -39,7 +39,7 @@
 ---
 
 ### Centralized VCS
-<!-- .slide: data-background="img/centralized-vcs.svg" -->
+<img src="img/centralized-vcs.svg" />
 
 ---
 
@@ -55,4 +55,5 @@
 ---
 
 ### Distributed Version Control
-<!-- .slide: data-background="img/dvcs.svg" -->
+
+<img src="img/dvcs.svg" />
