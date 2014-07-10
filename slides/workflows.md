@@ -77,16 +77,11 @@
 ## Hotfix branches
 
 - Patches to `master` branch
+- Merge back into `develop`
 
 ---
 
 <!-- .slide: data-background="img/gitflow-hotfix.svg" -->
-
----
-
-## Hotfix branches
-
-- Merge back into `develop`
 
 ---
 
