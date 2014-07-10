@@ -42,15 +42,6 @@
 
 - Deployment branch
 - Commits are deployments
-
----
-
-<!-- .slide: data-background="img/gitflow-master.svg" -->
-
----
-
-## `master`
-
 - Each commit gets a tag
 - Each commit should be a merge commit
 

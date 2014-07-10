@@ -30,4 +30,9 @@ heads$ cat master
 
 ## Conventional names
 
-- `master`: the branch you get by default.
+<img src="img/gitflow-master.svg" />
+
+- First branch
+- Created automatically by Git
+
+
