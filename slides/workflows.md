@@ -63,5 +63,3 @@
 ---
 
 <!-- .slide: data-background="img/gitflow-hotfix-develop.svg" -->
-
----
