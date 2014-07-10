@@ -1,5 +1,5 @@
+<!-- .slide: data-background="img/background.svg" -->
 # Remotes
-<!-- .slide: data-background="img/remotes.svg" -->
 
 ---
 
