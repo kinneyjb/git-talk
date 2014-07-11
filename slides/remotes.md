@@ -1,8 +1,6 @@
 <!-- .slide: data-background="img/background.svg" -->
 # Remotes
 
----
-
 <img src="img/remotes-defn.svg" />
 
 ---
