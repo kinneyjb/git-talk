@@ -73,12 +73,14 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-	-webkit-hyphens: auto;
+/*	-webkit-hyphens: auto;
 	   -moz-hyphens: auto;
 	        hyphens: auto;
 
-	word-wrap: break-word;
+        word-wrap: normal;
+        word-break: normal;
 	line-height: 1;
+*/
 }
 
 .reveal h1 { font-size: 3.77em; }
