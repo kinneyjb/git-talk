@@ -87,6 +87,7 @@ slides/workflows.md
 ### `git bisect`
 
 - Binary search of your commit history
+- See also: [Debugging with Git](http://git-scm.com/book/en/Git-Tools-Debugging-with-Git)
 
 ---
 
