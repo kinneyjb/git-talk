@@ -58,6 +58,27 @@ git-talk$ git log --graph --pretty=format:'%h %an %s'
 
 ### `git blame`
 
+```
+$ git blame slides/concepts.md
+```
+
+```
+9f933af3 (kinneyjb        2014-07-10)  - (Client/Server)
+9f933af3 (kinneyjb        2014-07-10) 
+9f933af3 (kinneyjb        2014-07-10) ---
+9f933af3 (kinneyjb        2014-07-10) 
+9f933af3 (kinneyjb        2014-07-10) ### Centralized VCS
+75f6b977 (Nathan Typanski 2014-07-10) <img src="img/centralized-vcs.svg" />
+9f933af3 (kinneyjb        2014-07-10) 
+9f933af3 (kinneyjb        2014-07-10) ---
+9f933af3 (kinneyjb        2014-07-10) 
+9f933af3 (kinneyjb        2014-07-10) ### Distributed Version Control
+9f933af3 (kinneyjb        2014-07-10) 
+9f933af3 (kinneyjb        2014-07-10) - Team members send changes to each
+9f933af3 (kinneyjb        2014-07-10) - Everyone can work offline
+```
+
+
 ---
 
 ### `git grep`
