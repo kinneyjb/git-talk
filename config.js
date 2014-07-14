@@ -61,7 +61,7 @@ Reveal.initialize({
     transitionSpeed: 'fast', // default/fast/slow
 
     // Transition style for full page slide backgrounds
-    backgroundTransition: 'none', // default/none/slide/concave/convex/zoom
+    backgroundTransition: 'default', // default/none/slide/concave/convex/zoom
 
     // Number of slides away from the current that are visible
     viewDistance: 3,
