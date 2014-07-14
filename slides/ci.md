@@ -13,4 +13,8 @@
 
 <img src="img/gitlab-ci-preview.png" />
 
-[[
+---
+
+<img src="img/jenkins-ci.svg" />
+
+[Jenkins project](http://jenkins-ci.org/)

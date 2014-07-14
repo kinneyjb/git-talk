@@ -70,3 +70,4 @@ From https://github.com/kinneyjb/git-talk
 - **Push code to your own fork**, then send a **pull request**.
 
 <img src="img/github-pull-request.png" />
+
