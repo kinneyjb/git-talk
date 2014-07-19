@@ -30,7 +30,7 @@
 
 ---
 
-## Git Flow
+## [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
 
 > "A successful Git branching model"
 
