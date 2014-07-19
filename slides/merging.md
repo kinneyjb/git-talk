@@ -7,6 +7,21 @@ $ git merge hotfix master
 
 ---
 
+To merge changes from local branch `hotfix` into local branch `master`:
+
+```
+$ git merge hotfix master
+```
+
+Merge changes from remote `origin` branch `master`
+into local branch `master`
+
+```
+$ git pull origin master
+```
+
+---
+
 ## Strategies
 
 ### Fast forward
@@ -30,17 +45,26 @@ $ git merge hotfix master
 
 ### More Strategies
 
----
-
 #### Octopus
 
+- Merge several trees (instead of a sequence of branch merges)
+
 ---
+
+### More Strategies
 
 #### Ours
 
+- Not really a merge
+- Keeps your history, but puts other branch history in the tree
+
 ---
 
+### More Strategies
+
 #### Subtree
+
+- Merge an independent project into a subdirectory
 
 ---
 
