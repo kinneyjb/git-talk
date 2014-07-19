@@ -113,3 +113,4 @@ slides/workflows.md
 ---
 
 <img src="img/binary-search.svg" />
+
