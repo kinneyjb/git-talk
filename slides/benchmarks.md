@@ -70,7 +70,7 @@
   - **350 MiB**
 - **Git**
   - entire history
-  - **450**.
+  - **450 MiB**
 
 [keithp](http://keithp.com/blog/Repository_Formats_Matter/)
 
@@ -81,7 +81,7 @@
 - **SVN**: 61 MiB
 - **bzr**: 64 MiB
 - **Hg**: 53 MiB
-- **Git**: 43 Mib
+- **Git**: 43 MiB
 
 [why git is better](http://thkoch2001.github.io/whygitisbetter/#git-is-small)
 
