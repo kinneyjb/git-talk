@@ -131,6 +131,60 @@ Fast-forward
 
 ---
 
+Reapply my old work:
+
+```
+git-talk$ git stash apply
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+```
+
+---
+
+```
+git-talk$ git show --pretty=medium 5e2788f
+commit 5e2788f44c6db845c5a7456a2cace6d22f9fe809
+Merge: 633c37b b332517
+Author: Nathan Typanski <ntypanski@gmail.com>
+Date:   Sat Jul 19 13:37:43 2014 -0400
+
+    Merge remote-tracking branch 'kinneyjb/master' into kjb
+```
+
+---
+
+```
+git-talk$ git show -c b332517
+```
+
+```
+b332517 kinneyjb fixed typos closes #2
+
+diff --git a/slides/benchmarks.md b/slides/benchmarks.md
+index 27930fd..a626042 100644
+--- a/slides/benchmarks.md
++++ b/slides/benchmarks.md
+@@ -70,7 +70,7 @@
+   - **350 MiB**
+ - **Git**
+   - entire history
+-  - **450**.
++  - **450 MiB**
+
+ [keithp](http://keithp.com/blog/Repository_Formats_Matter/)
+
+@@ -81,7 +81,7 @@
+ - **SVN**: 61 MiB
+ - **bzr**: 64 MiB
+ - **Hg**: 53 MiB
+-- **Git**: 43 Mib
++- **Git**: 43 MiB
+
+ [why git is better](http://thkoch2001.github.io/whygitisbetter/#git-is-small)
+```
+
+---
+
 ## Strategies
 
 ### Fast forward
